@@ -3,7 +3,7 @@ Bioinformatics scientist with PhD training and industry exposure leveraging sing
 
 ## 🧬 Featured Publication
 **Gonzalez V, […]. Single-cell transcriptomics reveals Nodal-responsive cytoskeletal programs driving asymmetric heart morphogenesis.**  
-*Nature Communications, under revision.*  [Publication Link](https://drive.google.com/file/d/1SpKT2Vmv1Zxjo50zVgzsNWeb-fehZVfD/view?usp=drive_link)  
+*Nature Communications, under revision.*  [Manuscript Link](https://drive.google.com/file/d/1SpKT2Vmv1Zxjo50zVgzsNWeb-fehZVfD/view?usp=drive_link)  
 - Goal: Conduct bioinformatics analyses of integrated single-cell transcriptomic datasets to identify disease-relevant biomarkers and gene programs driving vertebrate asymmetric heart development.
 - Contributions: Generated the scRNA-seq datasets. Performed scRNA-seq preprocessing, QC filtering, normalization/scaling, clustering/annotation, etc. to process the data. Carried out extensive analysis of the scRNA-seq datasets, including differential expression analysis, multi-timepoint dataset integration, signaling pathway activity scoring, and pseudotime/trajectory inference, enabling identification of disease-relevant biomarkers and gene programs driving vertebrate asymmetric heart development. One such novel biomarker gene was knocked out with CRISPR-Cas9 *in vivo*, resulting in heart abnormalities and validating its functional impact on asymmetric heart development. 
 - Tools: Seurat, Slingshot, AUCell, tidyverse, ggplot2, etc. 
