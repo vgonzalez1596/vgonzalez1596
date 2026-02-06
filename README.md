@@ -19,14 +19,20 @@ Bioinformatics scientist with PhD training and industry exposure leveraging sing
 - Contributions: Identified and isolated a rare cell type of interest from heterogeneous scRNA-seq datasets, characterizing both the cell type itself and identifying a novel cell population within containing unique transcriptional signatures. Additionally, mentored and trained a junior researcher with no prior coding experience, enabling her to independently perform bioinformatics analyses contributing to this study. 
 
 ## 🧪 Projects
-(More coming soon)
+### Project #1: Utilizing multi-omic integration to interrogate molecular etiology of leukemia.
+Applied multi-omic integration to interrogate the molecular etiology of leukemia, predicting patient mutation status using machine learning.
+- Performed multi-omic integration of DNA mutation, DNA methylation, mRNA expression, and drug response data from 200 patients, trained the MOFA model, analyzed the integrated data via variance decomposition analysis to quantify the percentage of variance explained by each factor across each data modality, identified most important features according to feature weight, and utilized randomForest to predict the mutation status of a specific feature for patients missing that data point.
+- Tools: MOFA2, randomForest, ggplot2, tidyverse.
+- Code: https://github.com/vgonzalez1596/multi-omic-integration-cancer
 
-### Project #1: Music Genre Classification Using Machine Learning.
+### Project #2: Music Genre Classification Using Machine Learning.
 Applied machine learning to classify music genres based on quantitative song features from the Spotify Tracks dataset. 
 - This was part of a Python training course I took at Princeton University to advance my practical programming skills and real-world data science applications. Here, I gained deep experience with core libraries such as pandas, NumPy, and matplotlib/seaborn for data handling and visualization. Built, evaluated, and optimized machine learning models using scikit-learn, including ensemble methods like Random Forest, and developed workflows with PyTorch. This course strengthened my ability to write clean, efficient Python code and apply ML techniques to complex datasets, preparing me to take on advanced data science and ML challenges in research and professional environments.
 - Performed dataset filtering, feature preprocessing and scaling, model training and evaluation, and comparative testing of classification algorithms, achieving 86% prediction accuracy using a Random Forest classifier.
 - Tools: Python, pandas, scikit-learn, numpy, matplotlib.
 - Code: https://github.com/vgonzalez1596/music-genre-classifier
+
+(More coming soon)
 
 ## 💻 Technical Skills
 ### Bioinformatics & Omics Analysis
