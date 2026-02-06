@@ -1,16 +1,55 @@
-## Hi there 👋
+# Bioinformatics Portfolio of Vanessa Gonzalez
+Bioinformatics scientist with PhD training and industry exposure leveraging single-cell, bulk, and multi-omics analyses to identify biomarkers, gene programs, and disease-relevant biological mechanisms. 
 
-<!--
-**vgonzalez1596/vgonzalez1596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 Featured Publication
+**Gonzalez V, […]. Single-cell transcriptomics reveals Nodal-responsive cytoskeletal programs driving asymmetric heart morphogenesis.**  
+*Nature Communications, under revision.*  [Publication Link](https://drive.google.com/file/d/1SpKT2Vmv1Zxjo50zVgzsNWeb-fehZVfD/view?usp=drive_link)  
+- Goal: Conduct bioinformatics analyses of integrated single-cell transcriptomic datasets to identify disease-relevant biomarkers and gene programs driving vertebrate asymmetric heart development.
+- Contributions: Generated the scRNA-seq datasets. Performed scRNA-seq preprocessing, QC filtering, normalization/scaling, clustering/annotation, etc. to process the data. Carried out extensive analysis of the scRNA-seq datasets, including differential expression analysis, multi-timepoint dataset integration, signaling pathway activity scoring, and pseudotime/trajectory inference, enabling identification of disease-relevant biomarkers and gene programs driving vertebrate asymmetric heart development. One such novel biomarker gene was knocked out with CRISPR-Cas9 *in vivo*, resulting in heart abnormalities and validating its functional impact on asymmetric heart development. 
+- Tools: Seurat, Slingshot, AUCell, tidyverse, ggplot2, etc. 
+- Code: https://github.com/vgonzalez1596/zebrafish-heart-scrnaseq
 
-Here are some ideas to get you started:
+## 🔬 Additional Publications
+**Patel AL, Gonzalez V, […]. Disrupted developmental signaling induces novel transcriptional states.**  
+*Proceedings of the National Academy of Sciences (PNAS), 2025.*  [Publication Link](https://www.pnas.org/doi/10.1073/pnas.2418351122)  
+- Contributions: Applied perturbation analysis to characterize transcriptional changes driven by ectopically increased MEK signaling during embryonic development and verified enrichment of vasculature-associated gene programs in these perturbed cells *in vivo*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reneker BM, Gonzalez V, […]. A spatial-temporal transcriptomic atlas reveals a novel cell population in the left-right organizer.**  
+*In preparation.*
+- Contributions: Identified and isolated a rare cell type of interest from heterogeneous scRNA-seq datasets, characterizing both the cell type itself and identifying a novel cell population within containing unique transcriptional signatures. Additionally, mentored and trained a junior researcher with no prior coding experience, enabling her to independently perform bioinformatics analyses contributing to this study. 
+
+## 🧪 Projects
+(More coming soon)
+
+### Project #1: Music Genre Classification Using Machine Learning.
+Applied machine learning to classify music genres based on quantitative song features from the Spotify Tracks dataset. 
+- This was part of a Python training course I took at Princeton University to advance my practical programming skills and real-world data science applications. Here, I gained deep experience with core libraries such as pandas, NumPy, and matplotlib/seaborn for data handling and visualization. Built, evaluated, and optimized machine learning models using scikit-learn, including ensemble methods like Random Forest, and developed workflows with PyTorch. This course strengthened my ability to write clean, efficient Python code and apply ML techniques to complex datasets, preparing me to take on advanced data science and ML challenges in research and professional environments.
+- Performed dataset filtering, feature preprocessing and scaling, model training and evaluation, and comparative testing of classification algorithms, achieving 86% prediction accuracy using a Random Forest classifier.
+- Tools: Python, pandas, scikit-learn, numpy, matplotlib.
+- Code: https://github.com/vgonzalez1596/music-genre-classifier
+
+## 💻 Technical Skills
+### Bioinformatics & Omics Analysis
+- Transcriptomics, Genomics, Proteomics
+- Extensive single-cell RNA sequencing analysis experience 
+- Biomarker and gene program discovery
+- Differential expression analysis
+- Dataset integration across conditions and timepoints
+- Pathway enrichment analysis and pathway response scoring
+- Trajectory and pseudotime inference
+- Perturbation analysis
+- Rare cell population discovery and characterization
+
+### Programming & Data Science
+- Python: pandas, NumPy, Matplotlib, Seaborn, etc.
+- R: Seurat, DESeq2, tidyverse, ggplot2, etc.
+- Machine learning workflows (scikit-learn, Random Forest, PyTorch)
+- Data processing, analysis, and visualization
+- Reproducible computational pipelines and scripting
+- Cloud computing environments
+
+### Omics Platforms & Experimental Background
+- Single-cell RNA sequencing, NGS sequencing, and mass spectrometry
+- Mammalian cell culture and vertebrate model systems experience
+- Drug and genetic perturbation assays
+- CRISPR gene editing and functional genomics
