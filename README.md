@@ -25,7 +25,7 @@ Applied multi-omic integration to interrogate the molecular etiology of leukemia
 - Tools: R, MOFA2, randomForest, ggplot2, tidyverse.
 - Code: https://github.com/vgonzalez1596/multi-omic-integration-cancer
 
-### Project #2: Music Genre Classification Using Machine Learning.  
+### Project #3: Music Genre Classification Using Machine Learning.  
 Applied machine learning to classify music genres based on quantitative song features from the Spotify Tracks dataset. 
 - This was part of a Python training course I took at Princeton University to advance my practical programming skills and real-world data science applications. Here, I gained deep experience with core libraries such as pandas, NumPy, and matplotlib/seaborn for data handling and visualization. Built, evaluated, and optimized machine learning models using scikit-learn, including ensemble methods like Random Forest, and developed workflows with PyTorch. This course strengthened my ability to write clean, efficient Python code and apply ML techniques to complex datasets, preparing me to take on advanced data science and ML challenges in research and professional environments.
 - Performed dataset filtering, feature preprocessing and scaling, model training and evaluation, and comparative testing of classification algorithms, achieving 86% prediction accuracy using a Random Forest classifier.
