@@ -1,5 +1,5 @@
 # Bioinformatics Portfolio of Vanessa Gonzalez
-Hi there 👋 I'm Vanessa, a bioinformatics scientist leveraging omics analyses to translate complex biological data into clear biological insights on disease-relevant biomarkers & mechanisms, supporting discovery and translational research with the ultimate goal of helping to treat patients. 
+Hi there 👋 I'm Vanessa, a molecular biologist leveraging omics analyses to translate complex biological data into clear biological insights on disease-relevant biomarkers & mechanisms, supporting discovery and translational research with the ultimate goal of helping to treat patients. 
 
 ## 🧬 Featured Publication
 **Gonzalez V, […]. Single-cell transcriptomics reveals Nodal-responsive cytoskeletal programs driving asymmetric heart morphogenesis.**  
